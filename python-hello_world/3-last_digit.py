@@ -7,4 +7,4 @@ else :
 
 if last_digit >5:
     out_put ="and is greater than 5"    
-print ("last digit of", number,"is",last_digit ,out_put)        
+print ("Last digit of", number,"is",last_digit,out_put)        
