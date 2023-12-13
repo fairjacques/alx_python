@@ -1,5 +1,5 @@
 for u in range(100):
-    if u <100:
-        print("{:02d}".format(u),end=", ")
+    if u <99:
+        print("{:02}".format(u),end=", ")
     else :
-        print("{:02}".format(u,))
+        print("{:02d}".format(u))
